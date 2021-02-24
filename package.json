@@ -1,20 +1,32 @@
 {
   "name": "Project-Catwalk",
+<<<<<<< HEAD
   "description": "HackReactor Front End Capstone",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server",
+=======
+  "version": "1.0.0",
+  "description": "HackReactor Front End Capstone",
+  "main": "config.js",
+  "scripts": {
+>>>>>>> 564ae65f8a0e513eb1f6e9951f12260af075d5ff
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "git+https://github.com/KilgoreTrout9/Project-Catwalk.git"
+=======
+    "url": "git+https://github.com/johnkwak08/Project-Catwalk.git"
+>>>>>>> 564ae65f8a0e513eb1f6e9951f12260af075d5ff
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/KilgoreTrout9/Project-Catwalk/issues"
   },
   "homepage": "https://github.com/KilgoreTrout9/Project-Catwalk#readme",
@@ -22,5 +34,17 @@
     "axios": "^0.21.1",
     "express": "^4.17.1",
     "nodemon": "^2.0.7"
+=======
+    "url": "https://github.com/johnkwak08/Project-Catwalk/issues"
+  },
+  "homepage": "https://github.com/johnkwak08/Project-Catwalk#readme",
+  "dependencies": {
+    "@babel/core": "^7.13.1",
+    "@babel/preset-env": "^7.13.5",
+    "@babel/preset-react": "^7.12.13",
+    "babel-loader": "^8.2.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+>>>>>>> 564ae65f8a0e513eb1f6e9951f12260af075d5ff
   }
 }
